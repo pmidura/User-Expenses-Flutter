@@ -6,3 +6,6 @@ An individual project from the second year of study on creating a mobile applica
 ### Technologies used
 - Dart (203.8452)
 - Flutter (63.2.1)
+
+### Screens
+![image](https://user-images.githubusercontent.com/63003336/213469582-409093c6-3ea2-4cb2-8c6d-a258a1f5739c.png)
