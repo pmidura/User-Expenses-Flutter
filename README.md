@@ -1,16 +1,8 @@
-# user_expenses_app_project
+<h2 align="center">User Expenses App Project</h2>
 
-User expenses app for everyone. Created by Midura Patryk.
+### Description
+An individual project from the second year of study on creating a mobile application that allows users to manage their expenses.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Technologies used
+- Dart (203.8452)
+- Flutter (63.2.1)
